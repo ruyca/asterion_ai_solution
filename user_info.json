@@ -1,0 +1,31 @@
+{
+    "Name": "AI LAB SCHOOL",
+    "Business description": "AI Lab School specializes in offering a comprehensive 4-month certification program in artificial intelligence tailored for individuals without prior coding experience. They provide an immersive learning experience with live online classes focusing on the latest AI trends and tools. The curriculum is designed to help students master AI technologies, enabling them to boost their careers in the digital world.",
+    "Country": "Mexico",
+    "State": "Mexico City",
+    "Timezone": "",
+    "Industry": "Sci/Tech",
+    "Classification": {
+        "Category_id": 5,
+        "Subcategory_id": 30,
+        "Subsubcategory_id": 717,
+        "Subsubsubcategory_id": 741
+    },
+    "Keywords_default": [
+        "Artificial Intelligence"
+    ],
+    "Keywords_ai": [
+        "AI certification program",
+        "artificial intelligence training",
+        "no-code AI education",
+        "AI career development",
+        "immersive AI course"
+    ],
+    "Keywords": [
+        "AI certification program",
+        "artificial intelligence",
+        "immersive learning",
+        "no coding experience",
+        "AI career"
+    ]
+}
